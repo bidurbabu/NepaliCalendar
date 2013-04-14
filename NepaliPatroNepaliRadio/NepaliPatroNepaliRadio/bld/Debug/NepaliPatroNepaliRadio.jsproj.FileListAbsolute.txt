@@ -1,0 +1,13 @@
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bin\Debug\resources.pri
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bin\Debug\AppxManifest.xml
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bin\Debug\NepaliPatroNepaliRadio.build.appxrecipe
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Debug\priconfig.xml
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Debug\layout.resfiles
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Debug\resources.resfiles
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Debug\pri.resfiles
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Debug\LanguageQualifiers.txt
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Debug\ProjectArchitectures.txt
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Debug\priconfig.xml.intermediate
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Debug\layout.resfiles.intermediate
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Debug\resources.resfiles.intermediate
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Debug\pri.resfiles.intermediate

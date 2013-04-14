@@ -1,0 +1,178 @@
+﻿        body {
+        background-color:burlywood;
+        }
+.mainView {
+float:left;
+margin-top:10px;
+}
+
+.leftView {
+    
+    float:left;
+    margin-right:15px;
+}
+        .rightView {
+        float:left;
+        font-size:25px;
+        text-align:center;
+        color:green;
+        width:320px;
+        }
+.aaja {
+width:320px;
+float:right;
+border:groove;
+background-color:red;
+color:white;
+}
+.aajaDate {
+width:320px;
+
+float:left;
+
+font-size:24px;
+margin-top:-20px;
+}
+.aajaTime {
+    width:320px;
+    text-align:center;
+    float:left;
+    font-size:26px;
+}
+#aajaText {
+
+margin-bottom:-30px;
+}
+
+#aajaTime ul {
+        list-style: none;
+     
+    }
+        #aajaTime ul li {
+            display: inline;
+            font-size:larger;
+        }
+        .engToNepali {
+            width:320px;
+            border:groove;
+            
+        }
+        .nepToEnglish {
+        border:groove;
+        width:320px;
+        }
+.fmSection {
+    margin-top:10px;
+    float:right;
+    border-color:darkblue;
+    border:groove;
+    width:320px;
+}
+        #Conversion {
+        font-family:Arial,Helvertica,sans-serif;
+
+        }
+        .tableCell {
+            color:blue;
+            border: 1px solid;
+            
+        }
+        .firstRow {
+            border: 2px solid;
+            font-size:15px;
+            color:red;
+        }
+       
+        .Today {
+        background-color:rosybrown;
+        }
+.holiday {
+color:red;
+}
+.Day {
+    float:left;
+    width:130px;
+}
+.left {
+float:left;
+width:10px;
+height:80px;
+}
+.mid {
+float:left;
+width:70px;
+}
+.top {
+text-align:center;
+font-size:10px;
+width:120px;
+}
+.nepDate {
+text-align:center;
+font-size:35px;
+}
+.engDate {
+text-align:right;
+font-size:15px;
+}
+.tithi {
+text-align:center;
+font-size:10px;
+
+}
+.bottom {
+width:70px;
+height:5px;
+}
+.right {
+float:left;
+width:10px;
+height:80px;
+}
+.barr {
+background-color:peru;
+color:#FFC;
+text-align:center;
+width:130px;
+float:left;
+font-size:12px;
+}
+.Saturdays {
+background-color:#DB2E0B;
+}
+.navigation {
+    padding:3px;
+    height:40px;
+    margin-bottom:3px;
+    width:850px;
+     color:blue;
+    
+}
+.nepaliDate {
+    
+    float:left;
+    width:200px;
+    font-size:20px;
+    text-align:center;  
+}
+.englishDate {
+    float:right;
+    width:120px;
+    font-size:20px;
+    text-align:right;
+}
+.midNavigation {
+    float:left; 
+    border-top:groove;
+    border-bottom:groove;
+    border-left:groove;
+    border-right:groove;
+    border-radius:12px;
+}
+.navItem {
+float:left;
+text-align:center;
+border-left:groove;
+padding:5px;
+}
+

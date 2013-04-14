@@ -1,0 +1,110 @@
+﻿body {
+}
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+    .rightView {
+    margin-top:-40px;
+    /*border:double;*/
+    }
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+    .leftView {
+    float:none;
+    }
+    .barr {
+background-color:peru;
+color:#FFC;
+text-align:center;
+width:100px;
+float:left;
+font-size:15px;
+}
+.navigation {
+    padding:3px;
+    height:40px;
+    margin-bottom:3px;
+    width:735px;
+     color:blue; 
+}
+.nepaliDate {
+    
+    float:left;
+    width:100px;
+    font-size:20px;
+    text-align:left;  
+}
+.englishDate {
+    float:right;
+    width:150px;
+    font-size:20px;
+    text-align:right;
+}
+    .Day {
+    float:left;
+    width:103px;
+}
+.left {
+float:left;
+width:5px;
+height:80px;
+}
+.mid {
+float:left;
+width:50px;
+}
+.top {
+text-align:center;
+font-size:12px;
+width:90px;
+}
+
+.tithi {
+text-align:center;
+font-size:12px;
+
+}
+.engDate {
+text-align:right;
+font-size:25px;
+}
+.bottom {
+width:50px;
+height:5px;
+}
+    .rightView {
+      float:none;
+      width:725px;
+        font-size:25px;
+        text-align:left;
+        color:green;
+        }
+       .engToNepali {  
+           float:left;
+            width:350px;
+            border:groove;
+        }
+        .nepToEnglish {
+            float:right;
+        border:groove;
+        width:350px;
+        }
+.fmSection {
+    border-color:darkblue;
+    border:groove;
+   float:right;
+   width:350px;
+   height:265px;
+}
+.aaja {
+    float:left;
+    width:350px;
+    text-align:center;
+}  
+}

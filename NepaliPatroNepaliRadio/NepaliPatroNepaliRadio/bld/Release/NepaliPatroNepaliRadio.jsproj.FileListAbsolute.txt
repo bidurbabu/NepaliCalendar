@@ -1,0 +1,13 @@
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bin\Release\resources.pri
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bin\Release\AppxManifest.xml
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bin\Release\NepaliPatroNepaliRadio.build.appxrecipe
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Release\priconfig.xml.intermediate
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Release\layout.resfiles.intermediate
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Release\resources.resfiles.intermediate
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Release\pri.resfiles.intermediate
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Release\priconfig.xml
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Release\layout.resfiles
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Release\resources.resfiles
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Release\pri.resfiles
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Release\LanguageQualifiers.txt
+E:\Window8Apps\NepaliPatroNepaliRadio\NepaliPatroNepaliRadio\bld\Release\ProjectArchitectures.txt

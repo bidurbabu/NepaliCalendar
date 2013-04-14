@@ -1,0 +1,1897 @@
+<Radios>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Kantipur FM 96.1(24/7)</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://178.159.0.13:7248</url>
+<suburl>7248</suburl>
+<desc>Radio Rastra Ko</desc>
+<imageurl>logo.png</imageurl>
+<errorMsg/>
+<ip>67.23.237.151</ip>
+<ad1>http://deepakdhakal.com/sajha.png</ad1>
+<ad2>http://sajhamedia.com</ad2>
+<adurl>http://dent-inn.com/ad/nfm.png</adurl>
+<helpText>http://www.dent-inn.com/nfm</helpText>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Kalika FM (24/7) - Chitawan</titleDesc>
+<isMms>0</isMms>
+<url>http://96.44.147.34:7740</url>
+<suburl>7740</suburl>
+<desc>Samachar Ma Sadaiba Agadi</desc>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Ujayalo FM 90 Network</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.151:8055</url>
+<suburl>8055</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>bb.1.fm</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>A Lok Radio(24/7)</titleDesc>
+<isMms>0</isMms>
+<url>http://74.112.204.210:8028/</url>
+<suburl>8056</suburl>
+<desc>Love Nepali Folk Songs</desc>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>HelloNepal- Canada Nepal(24/7)</titleDesc>
+<isMms>0</isMms>
+<url>http://178.159.0.80:7232/</url>
+<suburl>7232</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>BFBS Gurkha Radio(24/7)</titleDesc>
+<isMms>0</isMms>
+<url>http://icy-e-01.sharp-stream.com:80/ssvcbfbs3.mp3</url>
+<suburl>80</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Nepal 11 Radio(24/7)</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://s8.voscast.com:7504</url>
+<suburl>8045</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>RVL Nepali Classic(24/7)</titleDesc>
+<isMms>0</isMms>
+<url>http://67.23.237.151:8073</url>
+<suburl>8073</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>RVL Nepali Songs(24/7)</titleDesc>
+<isMms>0</isMms>
+<url>http://67.23.237.150:8061</url>
+<suburl>8061</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Hamro Internet Radio(24/7)</titleDesc>
+<isMms>0</isMms>
+<url>http://67.23.237.151:8039</url>
+<suburl>8039</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Ekata Radio - Australia</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.151:8059</url>
+<suburl>8045</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Everest Radio(24/7)</titleDesc>
+<isMms>0</isMms>
+<url>http://s3.voscast.com:7420</url>
+<suburl>7420</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Image FM (24/7) - Kathmandu</titleDesc>
+<isMms>0</isMms>
+<url>http://202.166.217.123:89/broadwave.mp3</url>
+<suburl>88</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Nepal FM Network</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://66.171.183.58:8878</url>
+<suburl>8016</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>bb.1.fm</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>RVL Radio English Pop</titleDesc>
+<isMms>0</isMms>
+<url>http://67.23.237.150:8063</url>
+<suburl>88</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Image News (24/7)</titleDesc>
+<isMms>0</isMms>
+<url>http://202.166.217.123:88/broadwave.mp3</url>
+<suburl>88</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Prabasi Online Radio</titleDesc>
+<isMms>0</isMms>
+<url>http://198.105.220.12:4207</url>
+<suburl>88</suburl>
+<desc>Radio for prabasi Nepali people</desc>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>NP Masti Radio</titleDesc>
+<isMms>0</isMms>
+<url>http://199.241.187.194:8050</url>
+<suburl>88</suburl>
+<desc>Radio for prabasi Nepali people</desc>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Naya Radio</titleDesc>
+<isMms>0</isMms>
+<url>http://199.241.187.194:8095</url>
+<suburl>88</suburl>
+<desc>Radio for prabasi Nepali people</desc>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="2">
+<title>A</title>
+<titleDesc>Sagarmatha FM 102.4 - Kathmandu</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://108.166.161.210:9022/</url>
+<suburl>/sagarmatha_fm</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>202.52.237.122</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Synergy FM(24/7)</titleDesc>
+<isMms>0</isMms>
+<url>http://67.23.237.150:8067</url>
+<suburl>8067</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>RVL Live Radio</titleDesc>
+<isMms>0</isMms>
+<url>http://67.23.237.151:8029</url>
+<suburl>8073</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Radio Audio(24/7)</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.151:8049</url>
+<suburl>8049</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Capital FM 92.4</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.151:8037</url>
+<suburl>8016</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>bb.1.fm</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Bhaktapur FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://119.2.60.88:88/broadwave.mp3</url>
+<suburl>8049</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Nepalicollections(24/7)</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://74.208.73.200:8080</url>
+<suburl>8000</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Baijanath FM</titleDesc>
+<isMms>0</isMms>
+<url>http://shoutcast.itechnepal.net:9040</url>
+<suburl>8056</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Mixed Songs Radio</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://76.10.222.237:8056/</url>
+<suburl>8049</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>ChahalPahal Radio</titleDesc>
+<isMms>0</isMms>
+<url>http://178.159.0.80:8340</url>
+<suburl>8056</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Mero Khabar Radio</titleDesc>
+<isMms>0</isMms>
+<url>http://shoutcast.itechnepal.net:8160/</url>
+<suburl>8056</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>A Nepali Media:: Online Nepali Music Library(24/7)</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://178.159.0.77:7544</url>
+<suburl>8045</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Durga FM Phoenix, Arizona</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://s1.voscast.com:7814/</url>
+<suburl>8045</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Texas Nepal Radio(24/7)</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://159.253.143.4:8316</url>
+<suburl>8045</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>ONCW, UK</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://188.165.248.48:8000/live</url>
+<suburl>8045</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Nepali Cyber</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://108.166.161.206:8676</url>
+<suburl>8045</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>A Calm Music</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://198.154.106.102:8437</url>
+<suburl>8045</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Madesh</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://77.92.92.236:8082</url>
+<suburl>8045</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Tamor (Taplejung)</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://77.92.92.236:8110</url>
+<suburl>8045</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Madhyabindu</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.151:8077/</url>
+<suburl>8045</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Damauli</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8164</url>
+<suburl>8045</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Shreenagar FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://77.92.92.236:8046</url>
+<suburl>8046</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>83.170.73.46</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>HK Nepali Radio, Hongkong</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8018</url>
+<suburl>8016</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>bb.1.fm</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>BNC Radio</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://96.31.90.115:8042</url>
+<suburl>8042</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Butwal FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://77.92.92.236:8014</url>
+<suburl>8016</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>bb.1.fm</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Radio Saugat</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://77.92.92.236:8112</url>
+<suburl>8016</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>bb.1.fm</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Radio Malmala FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://77.92.92.236:8436</url>
+<suburl>8016</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>bb.1.fm</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Saptakoshi FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8040/</url>
+<suburl>8040</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Times FM</titleDesc>
+<isMms>0</isMms>
+<url>http://74.200.89.122:8060/</url>
+<suburl>8060</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Narayani FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.151:8047/</url>
+<suburl>8039</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Lisneaawaj</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8038</url>
+<suburl>8039</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Mero Sathi</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8008</url>
+<suburl>8039</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Ilam FM, Ilam</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://77.92.92.236:8112</url>
+<suburl>8016</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>bb.1.fm</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Radio Yuva - USA</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://174.37.16.73:1725</url>
+<suburl>8016</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>bb.1.fm</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Solu FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://77.92.92.236:8120</url>
+<suburl>8039</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Pathivara FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8130/</url>
+<suburl>8039</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Big FM 101 - Pokhara</titleDesc>
+<isMms>0</isMms>
+<url>http://74.200.89.122:8074</url>
+<suburl>8074</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Radio Rajadhani - Kathmandu</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://s6.voscast.com:7178</url>
+<suburl>8016</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>bb.1.fm</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Radio Bihani - Dhading</titleDesc>
+<isMms>0</isMms>
+<url>http://shoutcast.itechnepal.net:8058</url>
+<suburl>8073</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Popular FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://77.92.92.236:8432</url>
+<suburl>8120</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Dinesh FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://118.91.170.75:8000</url>
+<suburl>8120</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Radio DhorBarahi</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8192</url>
+<suburl>8078</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Mechi Tunes FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://108.166.161.210:8951</url>
+<suburl>8022</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Prakrity_com Radio</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>
+http://www.prakrity.net/cgi-bin/ewf/prakrity_com/scripts/ewf_page_loader_prakrity_com.cgi?page=getcurrentpralayasessions&dummy_url=stream.mp3
+</url>
+<suburl>8022</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>B FM 91.2 Mhz</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8022</url>
+<suburl>8022</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Thaha Sanchar</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.151:8025/</url>
+<suburl>8022</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>The Ethnic Voice-Nepal (24/7)</titleDesc>
+<isMms>0</isMms>
+<url>http://shoutcast.itechnepal.net:8174</url>
+<suburl>8039</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Choice FM 90.4 (24/7)</titleDesc>
+<isMms>0</isMms>
+<url>http://shoutcast.itechnepal.net:8282</url>
+<suburl>8039</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Kanchanjungha FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8122</url>
+<suburl>8122</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Resunga</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://83.170.117.142:8136</url>
+<suburl>8136</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio HImali</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://108.166.161.210:9030</url>
+<suburl>8136</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Radio Tanahu FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8152</url>
+<suburl>8152</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Radio Rolpa</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8086</url>
+<suburl>8086</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio DidiBahini</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8190</url>
+<suburl>8020</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Madhyapascim</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8012</url>
+<suburl>8064</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Madi Seti Radio</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://108.166.161.206:8712</url>
+<suburl>8064</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Taranga Pokhara 107.6 mhz</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8076/</url>
+<suburl>8076</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Lamjung</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8080</url>
+<suburl>8080</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Gandaki</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8026</url>
+<suburl>8080</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Bhorukawa FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8054</url>
+<suburl>8054</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Makalu - Dhankuta</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://178.33.227.116:8525</url>
+<suburl>8001</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Namaste FM, Itahari</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://178.33.227.116:8395</url>
+<suburl>8001</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Hamro Pahunch FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.151:8045/</url>
+<suburl>8016</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>bb.1.fm</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Vijaya FM 101.6 MHZ</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.151:8001</url>
+<suburl>8001</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Bandipur</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8124</url>
+<suburl>8124</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Arpan 104.5</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://s1.voscast.com:7398/</url>
+<suburl>7398</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>s1.voscast.com</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Phoolbari FM 93</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8102</url>
+<suburl>8116</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>83.170.73.46</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Dhading</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8154</url>
+<suburl>8168</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>83.170.73.46</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Mahakali FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8070/</url>
+<suburl>8146</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>83.170.73.46</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Nepal Bani - Iilam</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8018/</url>
+<suburl>8051</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>83.170.73.46</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Triveni</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.150:8031</url>
+<suburl>8051</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>83.170.73.46</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Doctor Nepal</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://83.170.117.142:8156</url>
+<suburl>8051</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>83.170.73.46</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Andhikhola</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8108</url>
+<suburl>8051</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>83.170.73.46</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Lumbini</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.151:8085</url>
+<suburl>8051</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>83.170.73.46</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Sargam - Jhapa</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8202</url>
+<suburl>8051</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>83.170.73.46</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Indreni FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8140</url>
+<suburl>8140</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Community Radio - Waling</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8106</url>
+<suburl>8106</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>83.170.73.46</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Dhurbatara - Dailekh</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8162/</url>
+<suburl>8047</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>83.170.73.46</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Makawanpur</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.150:8057</url>
+<suburl>8057</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>83.170.73.46</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Butawal 94.4 FM</titleDesc>
+<isMms>0</isMms>
+<url>http://shoutcast.itechnepal.net:8014</url>
+<suburl>8014</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>67.23.246.118</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Sunrise - Jhapa</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://83.170.117.142:8036</url>
+<suburl>8088</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Namaste - Butwal</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.151:8014/</url>
+<suburl>8088</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Taplejung</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8078</url>
+<suburl>8088</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Radio Sarlahi</titleDesc>
+<isMms>0</isMms>
+<url>http://77.92.92.236:8150</url>
+<suburl>8056</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Hetauda FM</titleDesc>
+<isMms>0</isMms>
+<url>http://83.170.117.142:8028</url>
+<suburl>8073</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip/>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Krishnasar</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8184</url>
+<suburl>8088</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Menchhyayem, Terhathum</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://178.33.227.116:8403/</url>
+<suburl>8088</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio XPRESS FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.151:8027/</url>
+<suburl>8088</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Tibetan Radio Phayul</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://radio.phayul.com:8130/</url>
+<suburl>8088</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Jaljala</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8088</url>
+<suburl>8088</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Online Radio</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://67.23.237.150:8077</url>
+<suburl>8088</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Star FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8032</url>
+<suburl>8032</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="1">
+<title>A</title>
+<titleDesc>Saptarangi FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8024</url>
+<suburl>8024</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>67.23.246.118</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Margadhi</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8208</url>
+<suburl>8050</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Jagaran FM 90.8, Birendranagar</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8206</url>
+<suburl>8050</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Dhawalagiri FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://shoutcast.itechnepal.net:8098/</url>
+<suburl>8050</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="7">
+<title>A</title>
+<titleDesc>Radio Appan Mithila FM</titleDesc>
+<isMms>0</isMms>
+<isMp3>1</isMp3>
+<url>http://83.170.117.142:8096</url>
+<suburl>8039</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>64.62.166.162</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="8">
+<title>A</title>
+<titleDesc>Maitri FM</titleDesc>
+<isMms>1</isMms>
+<isMp3>0</isMp3>
+<url>202.52.237.122/maitrifm</url>
+<suburl>/maitrifm</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>202.52.237.122</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="4">
+<title>A</title>
+<titleDesc>Hits FM</titleDesc>
+<isMms>1</isMms>
+<isMp3>0</isMp3>
+<url>202.52.237.122/hitsfm</url>
+<suburl>/hitsfm</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>202.52.237.122</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="4">
+<title>A</title>
+<titleDesc>Citizen FM</titleDesc>
+<isMms>1</isMms>
+<isMp3>0</isMp3>
+<url>202.52.237.122/citizenfm</url>
+<suburl>/citizenfm</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>202.52.237.122</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+<Radio id="4">
+<title>A</title>
+<titleDesc>Keeps FM 98.3</titleDesc>
+<isMms>1</isMms>
+<isMp3>0</isMp3>
+<url>202.52.237.122/keepsfm</url>
+<suburl>/keepsfm</suburl>
+<desc/>
+<imageurl/>
+<errorMsg/>
+<ip>202.52.237.122</ip>
+<ad1/>
+<ad2/>
+<adurl/>
+<helpText/>
+</Radio>
+</Radios>

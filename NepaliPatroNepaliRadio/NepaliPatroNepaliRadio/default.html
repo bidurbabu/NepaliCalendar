@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>NepaliPatroNepaliRadio</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- NepaliPatroNepaliRadio references -->
+     
+    <link href="/css/calendar.css" rel="stylesheet" />
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/jquery-1.7.2.min.js"></script>
+     <script src="/js/calendar.js"></script>
+    <script src="/js/default.js"></script>
+   <!-- <script src="/js/calendar.js"></script>-->
+    <script src="/js/events.js"></script>
+    <script src="/js/linq.js"></script>
+
+</head>
+<body>
+            <div class="mainView">
+
+                 <div id="CalendarSection" class="leftView">
+                    <div id="navigation" class="navigation">
+        <div id="nepaliDate" class="nepaliDate">NepaliDate</div>
+        <div class="midNavigation">
+            <div id="previousYear" class="navItem" style="border-left:none">Previous Year</div>
+            <div id="previousMonth" class="navItem">Previous Month</div>
+            <div id="goCurrentMonth" class="navItem">Today</div>
+            <div id="nextMonth" class="navItem">Next Month</div>
+            <div id="nextYear" class="navItem">Next Year</div>
+        </div>
+        <div id="englishDate" class="englishDate">EnglishDate</div>      
+    </div>
+                <table id="calTable" style="float:left"></table>
+            </div>
+
+
+            <div id="rightView" class="rightView">
+                <div>Convert Dates</div>
+                <div id="englishToNepali" class="engToNepali">
+                    <div>English To Nepali</div>
+                <div id="date"></div>
+                <div id="nepYear">Some Nepali Date</div>
+               </div>
+                <div id="nepaliToEnglish" class="nepToEnglish">
+                    <div>Nepali to English</div>
+                    <select id="SelectYear">
+                        <option>1980</option>
+                        <option>1980</option>
+                    </select>
+                    <select id="SelectMonth">
+                        <option>12</option>
+                    </select>
+                    <select id="SelectDay">
+                        <option>32</option>
+                    </select>
+                <div id="engYear">Some EnglishDate</div>
+                    </div>
+
+                
+                <div id="Today" class="aaja">
+                     <div id="aajaText">आज : Today</div>
+                    <div id="aajaTime"class="aajaTime">
+                    <ul>
+                      <li id="hours"></li>
+                      <li id="point">:</li>
+                      <li id="min"></li>
+                      <li id="Li1">:</li>
+                      <li id="sec"></li>
+                      <li id="ampm"></li>
+                  </ul>
+            </div>
+      
+                 
+                 
+                    <div id="aajaDate" class="aajaDate">
+                        <div id="nep"></div>
+                        <div id="eng"></div>
+                        <div id="chad"></div>
+                        <div id="thithi"></div>
+                    </div>
+                     
+                </div>
+                   
+                <div class="fmSection"> 
+            <div>Listion To a FM Station</div>
+            <div id="audDiv">
+                <select id="stationSelect">
+                    <option value="http://67.23.237.151:8067/;" title="Synergy FM">Synergy FM</option>
+                    <option value="http://kantipur-stream.softnep.com:7248/;" title="Kantipur FM">Kantipur FM</option>
+                    <option value="mms://202.52.237.122/hitsfm" title="Hits FM">Hits FM</option>
+                    <option value="http://67.23.237.151:8055/;" title="Ujyalo Network">Ujyalo Network</option>
+                    <option value="http://s1.desimusicmix.com:8012/;" title="Desi Music Mix">Desi Music Mix</option>
+                    <option selected value="http://202.166.217.123:89/broadwave.mp3" title="Image FM">Image FM</option>
+                    <option value="http://202.166.217.123:88/broadwave.mp3" title="Image News">Image News</option>
+                    <option value="mms://202.52.237.122/maitrifm" title="Matri FM">Matri FM</option>
+                    <option value="http://67.23.237.151:8039/;" title="Hamro Radio">Hamro Radio</option>
+                    <option value="http://67.23.237.151:8001/;" title="Radio Vijaya">Radio Vijaya</option>
+                    <option value="http://74.200.89.122:8074/;" title="Big FM 101 - Pokhara">Big FM 101 - Pokhara</option>
+                </select>
+            </div>
+
+    <div data-win-control="SdkSample.ScenarioOutput">
+        <div id="MediaElement" style="width:310px"></div>
+        <div id="FmStationName"></div>
+        <div id="StatusOutput"></div>
+    </div>
+            </div>
+                
+        </div>
+                </div>
+</body>
+</html>
